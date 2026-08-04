@@ -1,0 +1,78 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+log/
+
+# Dependency directories
+node_modules/
+vendor/
+bower_components/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+out/
+target/
+bin/
+objs/
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+*.class
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+config.local.*
+
+# Coverage and test reports
+coverage/
+*.lcov
+.nyc_output/
+htmlcov/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+.cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated documentation
+docs/_build/
+site/

@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">省力起身助力横版标志 第二版</title>
+  <desc id="desc">左侧为线稿风起身助力图形标志，右侧为省力起身与坐下稳、起身轻、收得起说明。</desc>
+  <rect width="1600" height="520" rx="84" fill="#FFFFFF"/>
+  <g transform="translate(54 44) scale(0.421875)">
+    <rect x="32" y="32" width="960" height="960" rx="252" fill="#E9F0EE" stroke="#153B50" stroke-width="20"/>
+    <g fill="none" stroke="#F28C28" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M392 506 L626 258" stroke-width="72"/>
+      <path d="M557 214 L704 176 L677 326 Z" fill="#F28C28" stroke="none"/>
+    </g>
+    <g fill="none" stroke="#153B50" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M298 800 L710 528" stroke-width="50"/>
+      <path d="M726 800 L314 528" stroke-width="50"/>
+    </g>
+    <circle cx="298" cy="800" r="28" fill="#153B50"/>
+    <circle cx="726" cy="800" r="28" fill="#153B50"/>
+    <g transform="rotate(-13 512 520)">
+      <rect x="190" y="458" width="644" height="124" rx="62" fill="#153B50"/>
+      <rect x="216" y="480" width="592" height="72" rx="36" fill="#F7F5EF"/>
+      <circle cx="242" cy="520" r="27" fill="#F28C28"/>
+    </g>
+  </g>
+  <g font-family="'Microsoft YaHei','Noto Sans SC','PingFang SC',sans-serif">
+    <text x="548" y="220" fill="#153B50" font-size="108" font-weight="800" letter-spacing="5">省力起身</text>
+    <text x="554" y="322" fill="#F28C28" font-size="46" font-weight="700" letter-spacing="6">坐下稳 · 起身轻 · 收得起</text>
+    <text x="556" y="406" fill="#526A73" font-family="'Arial Narrow','Arial',sans-serif" font-size="29" font-weight="700" letter-spacing="8">FOLD · ASSIST · STAND</text>
+    <rect x="555" y="432" width="665" height="7" rx="3.5" fill="#153B50"/>
+  </g>
+</svg>

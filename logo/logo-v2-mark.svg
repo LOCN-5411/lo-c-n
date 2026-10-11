@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">省力起身助力标志 第二版</title>
+  <desc id="desc">折叠交叉腿、可抬起的坐面和斜向上助力箭头组成的线稿风标志。</desc>
+  <rect x="32" y="32" width="960" height="960" rx="252" fill="#E9F0EE" stroke="#153B50" stroke-width="20"/>
+
+  <!-- 助力方向：从坐面向前上方抬起 -->
+  <g fill="none" stroke="#F28C28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M392 506 L626 258" stroke-width="72"/>
+    <path d="M557 214 L704 176 L677 326 Z" fill="#F28C28" stroke="none"/>
+  </g>
+
+  <!-- 折叠交叉腿 -->
+  <g fill="none" stroke="#153B50" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M298 800 L710 528" stroke-width="50"/>
+    <path d="M726 800 L314 528" stroke-width="50"/>
+  </g>
+  <circle cx="298" cy="800" r="28" fill="#153B50"/>
+  <circle cx="726" cy="800" r="28" fill="#153B50"/>
+
+  <!-- 可倾斜坐面 -->
+  <g transform="rotate(-13 512 520)">
+    <rect x="190" y="458" width="644" height="124" rx="62" fill="#153B50"/>
+    <rect x="216" y="480" width="592" height="72" rx="36" fill="#F7F5EF"/>
+    <circle cx="242" cy="520" r="27" fill="#F28C28"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">省力起身助力横版标志</title>
+  <desc id="desc">左侧为起身助力图形标志，右侧为省力起身与折叠收纳、轻松站起说明。</desc>
+  <rect width="1600" height="520" rx="84" fill="#F4F1EA"/>
+  <g transform="translate(50 40) scale(0.4296875)">
+    <rect width="1024" height="1024" rx="224" fill="#153B50"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M292 822 L710 510" stroke="#F4F1EA" stroke-width="58"/>
+      <path d="M732 822 L314 510" stroke="#F4F1EA" stroke-width="58"/>
+      <circle cx="292" cy="822" r="31" fill="#F4F1EA" stroke="none"/>
+      <circle cx="732" cy="822" r="31" fill="#F4F1EA" stroke="none"/>
+      <path d="M512 420 V195" stroke="#F28C28" stroke-width="74"/>
+      <path d="M366 323 L512 177 L658 323" stroke="#F28C28" stroke-width="74"/>
+    </g>
+    <g transform="rotate(-5 512 512)">
+      <rect x="176" y="408" width="672" height="126" rx="63" fill="#F4F1EA"/>
+      <rect x="201" y="433" width="622" height="76" rx="38" fill="#DDE7E7"/>
+    </g>
+  </g>
+  <g font-family="'Microsoft YaHei','Noto Sans SC','PingFang SC',sans-serif">
+    <text x="548" y="218" fill="#153B50" font-size="108" font-weight="800" letter-spacing="5">省力起身</text>
+    <text x="554" y="319" fill="#445E69" font-size="45" font-weight="500" letter-spacing="5">可折叠 · 易收纳 · 助起身</text>
+    <text x="556" y="402" fill="#F28C28" font-family="'Arial Narrow','Arial',sans-serif" font-size="29" font-weight="700" letter-spacing="7">FOLDING ASSIST SYSTEM</text>
+    <rect x="555" y="428" width="665" height="7" rx="3.5" fill="#F28C28"/>
+  </g>
+</svg>

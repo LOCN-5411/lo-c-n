@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">省力起身助力标志 第三版</title>
+  <desc id="desc">圆形徽章、折叠交叉腿、坐面与托举式弧线箭头组成的简洁标志。</desc>
+  <circle cx="512" cy="512" r="472" fill="#153B50"/>
+  <circle cx="512" cy="512" r="430" fill="none" stroke="#F28C28" stroke-width="10" opacity="0.9"/>
+
+  <!-- 托举式助力弧线 -->
+  <g fill="none" stroke="#F28C28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M350 472 C 380 250 640 380 630 152" stroke-width="68"/>
+  </g>
+  <path d="M632 118 L700 198 L574 198 Z" fill="#F28C28" stroke="#F28C28" stroke-width="20" stroke-linejoin="round"/>
+
+  <!-- 折叠交叉腿 -->
+  <g fill="none" stroke="#F4F1EA" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 790 L700 544" stroke-width="52"/>
+    <path d="M694 790 L324 544" stroke-width="52"/>
+  </g>
+  <circle cx="330" cy="790" r="28" fill="#F4F1EA"/>
+  <circle cx="694" cy="790" r="28" fill="#F4F1EA"/>
+
+  <!-- 坐面 -->
+  <g transform="rotate(-5 512 512)">
+    <rect x="196" y="468" width="632" height="116" rx="58" fill="#F4F1EA"/>
+    <rect x="222" y="492" width="580" height="68" rx="34" fill="#DDE7E7"/>
+  </g>
+</svg>
